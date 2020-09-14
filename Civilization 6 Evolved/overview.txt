@@ -1,1 +1,6 @@
 Civilization 6 Evolved is a total conversion mod of Civilization 6, in which unit upgrade paths and technologies change.
+- More City Center Buildings
+Added 4 more Ancient Era City Center Buildings, including Mural, Storage, and Hunting Camp.
+Romans now get Mural instead of Monument at the start of the game.
+Monument now requires Masonry.
+Added Public School: Industrial Era City Center Building, unlocked with Scientific Theory, to provide more Science.
