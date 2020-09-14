@@ -2,8 +2,8 @@
 Caveman2Cosmos redesigned for Civilization 6 GS
 ## Eras
  - Prehistoric(1.8M - 10000 BC)
- - Ancient(10000 - 1500 BC)
- - Classical(1500 BC - 500 AD)
+ - Ancient(10000 - 1000 BC)
+ - Classical(1000 BC - 500 AD)
  - Medieval(500 - 1400 AD)
  - Renaissance(1400 - 1750 AD)
  - Industrial(1750 - 1850 AD)
